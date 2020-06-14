@@ -6,4 +6,4 @@ ispc compiles a C-based  [SPMD](https://en.wikipedia.org/wiki/SPMD) programming 
 You can download ispc on your machine [Linux](https://github.com/ispc/ispc/releases/download/v1.13.0/ispc-v1.13.0-linux.tar.gz).
 
 ### SC22 POSIX
-SC22PAG N0005 Interim Report of the SC22 POSIX Advisory Group[OpenGroup] (https://collaboration.opengroup.org/projects/sc22pag/documents/6511/SC22-PAG-N0005-interim.pdf)
+SC22PAG N0005 Interim Report of the SC22 POSIX Advisory Group [OpenGroup](https://collaboration.opengroup.org/projects/sc22pag/documents/6511/SC22-PAG-N0005-interim.pdf).
