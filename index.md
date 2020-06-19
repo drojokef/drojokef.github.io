@@ -15,3 +15,8 @@ To determine the default size of a page the machine uses one should use: size_t 
 
 To access more details at [mmaped i/o](https://pages.mtu.edu/~soner/Classes/CS-3411/Slides/mmap.pdf)
 
+### Dynamic Kernel Linker (KLD) Facility
+Allows the system administrator to dynamically add and remove functionality from a running system. This ability also helps software developers to develop new parts of the kernel without constantly rebooting to test their changes.
+
+To access more details at [bsd](https://doc.lagout.org/security/Designing%20BSD%20Rootkits%20-%20An%20Introduction%20to%20Kernel%20Hacking.pdf)
+
