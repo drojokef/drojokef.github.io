@@ -7,9 +7,6 @@ You can download ispc on your machine at [Linux](https://github.com/ispc/ispc/re
 
 To access more details at [cppcon2016](https://www.youtube.com/watch?v=UgaQCg-0ZoU&t=330s)
 
-### SC22 POSIX
-SC22PAG N0005 Interim Report of the SC22 POSIX Advisory Group report at [OpenGroup](https://collaboration.opengroup.org/projects/sc22pag/documents/6511/SC22-PAG-N0005-interim.pdf).
-
 ### MMapedI/O
 On modern operating systems, it is possible to mmap a file to a region of memory. When this is done, the file can be accessed just like an array in the program.
 Memory mapping only works on entire pages of memory. Thus, addresses for mapping must be page-aligned, and length values will be rounded up. 
