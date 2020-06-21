@@ -20,3 +20,38 @@ Allows the system administrator to dynamically add and remove functionality from
 
 To access more details at [bsd](https://doc.lagout.org/security/Designing%20BSD%20Rootkits%20-%20An%20Introduction%20to%20Kernel%20Hacking.pdf)
 
+### CHERI
+CHERI (Capability Hardware Enhanced RISC Instructions) extends conventional processor Instruction-Set Architectures (ISAs) with architectural capabilities to enable fine-grained memory protection and highly scalable software compartmentalization.
+CHERI is ISA with new security mechanisms.
+-Fine-grained memory protection
+-Scalable softaawre compartmentalization
+
+CheriBSD is fork from FreeBSD and adapted to use of Cheri's new security mechanisms.
+
+Fine-grained Memory Protection:
+
+int x=1;
+
+int secret_key=5000;
+
+int main(){
+
+int *p =&x;
+
+p=p+1;
+
+int leak = *p;
+
+printf("Leak : %d\n",leak);
+
+}
+
+Pointers are typically compiled to just mechine addresses.
+Pointer P originally pointed to x but it was increased by 1 and x is next to secret key in memory than points it.
+
+With Cheri on the other hand, ponters can be compiled to capabilities.
+Capabilitiy has an address, so still points to a memory location but it also has bounds information.
+Whenever you try to use a capability(p=p+1) with an address that point outside its bound, hardware will trap.
+
+To access more details at [Cheri](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/)
+
