@@ -55,3 +55,32 @@ Whenever you try to use a capability(p=p+1) with an address that point outside i
 
 To access more details at [Cheri](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/)
 
+### OpenBSD: Release Songs
+[6.2: "A 3 line diff"](https://ftp.openbsd.org/pub/OpenBSD/songs/song62.mp3)
+
+[6.1: "Winter of 95"](https://ftp.openbsd.org/pub/OpenBSD/songs/song61.mp3)
+
+[6.0: "Another Smash of the Stack"](https://ftp.openbsd.org/pub/OpenBSD/songs/song60a.mp3)
+
+[6.0: "Black Hat"](https://ftp.openbsd.org/pub/OpenBSD/songs/song60b.mp3)
+
+[6.0: "Money"](https://ftp.openbsd.org/pub/OpenBSD/songs/song60c.mp3)
+
+[6.0: "Comfortably Dumb"](https://ftp.openbsd.org/pub/OpenBSD/songs/song60d.mp3)
+
+[6.0: "Mother"](https://ftp.openbsd.org/pub/OpenBSD/songs/song60e.mp3)
+
+[6.0: "Goodbye"](https://ftp.openbsd.org/pub/OpenBSD/songs/song60f.mp3)
+
+[6.2: "A 3 line diff"](https://ftp.openbsd.org/pub/OpenBSD/songs/song62.mp3)
+
+[6.2: "A 3 line diff"](https://ftp.openbsd.org/pub/OpenBSD/songs/song62.mp3)
+
+[6.2: "A 3 line diff"](https://ftp.openbsd.org/pub/OpenBSD/songs/song62.mp3)
+
+[6.2: "A 3 line diff"](https://ftp.openbsd.org/pub/OpenBSD/songs/song62.mp3)
+
+To access more details at [Release Songs](https://www.openbsd.org/lyrics.html)
+
+
+
