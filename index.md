@@ -72,13 +72,13 @@ To access more details at [Cheri](https://www.cl.cam.ac.uk/research/security/cts
 
 [6.0: "Goodbye"](https://ftp.openbsd.org/pub/OpenBSD/songs/song60f.mp3)
 
-[6.2: "A 3 line diff"](https://ftp.openbsd.org/pub/OpenBSD/songs/song62.mp3)
+[6.0: "Wish you were Secure"](https://ftp.openbsd.org/pub/OpenBSD/songs/song60g.mp3)
 
-[6.2: "A 3 line diff"](https://ftp.openbsd.org/pub/OpenBSD/songs/song62.mp3)
+[5.9: "Doctor W^X"](https://ftp.openbsd.org/pub/OpenBSD/songs/song59a.mp3)
 
-[6.2: "A 3 line diff"](https://ftp.openbsd.org/pub/OpenBSD/songs/song62.mp3)
+[5.9: "Systemagic (Anniversary Edition)"](https://ftp.openbsd.org/pub/OpenBSD/songs/song59b.mp3)
 
-[6.2: "A 3 line diff"](https://ftp.openbsd.org/pub/OpenBSD/songs/song62.mp3)
+[5.8: "20 years ago today"](https://ftp.openbsd.org/pub/OpenBSD/songs/song58a.mp3)
 
 To access more details at [Release Songs](https://www.openbsd.org/lyrics.html)
 
